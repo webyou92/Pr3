@@ -5,5 +5,5 @@ import (
 )
 
 func Salam(){
-	fmt.Println("salam")
+	fmt.Println("hello words")
 }
